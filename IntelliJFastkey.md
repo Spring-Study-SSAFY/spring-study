@@ -24,3 +24,7 @@
 
 
 - ctrl + F : 문자열 찾기
+
+
+
+- ctrl + shift + enter : 자동완성
