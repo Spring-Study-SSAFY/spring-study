@@ -3,3 +3,4 @@
 
 ## 개인 블로그 / 노션 링크
 * [punsoo(손순철)](https://punsoo.github.io/)
+* [jsw3788(정성우)](https://jsw3788.github.io)
