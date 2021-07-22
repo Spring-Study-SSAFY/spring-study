@@ -31,3 +31,5 @@
 
 
 - Ctrl + Alt + m : 메소드 자동 추출
+
+- Ctrl + Shift + t : 테스트 코드 생성
