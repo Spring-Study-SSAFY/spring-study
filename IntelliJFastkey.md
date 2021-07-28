@@ -37,3 +37,7 @@
 
 
 - Ctrl + e : 최근 본 파일 목록
+
+- Ctrl + Alt + v : 변수 추출하기
+
+- Ctrl + Alt + p : 파라미터 
