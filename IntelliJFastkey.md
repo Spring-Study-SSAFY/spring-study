@@ -40,4 +40,6 @@
 
 - Ctrl + Alt + v : 변수 추출하기
 
-- Ctrl + Alt + p : 파라미터 
+- Ctrl + Alt + p : 파라미터 추출하기
+
+- Ctrl + Alt + l : 코드 정리, 코드 reformat
