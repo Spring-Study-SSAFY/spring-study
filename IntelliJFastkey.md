@@ -43,3 +43,5 @@
 - Ctrl + Alt + p : 파라미터 추출하기
 
 - Ctrl + Alt + l : 코드 정리, 코드 reformat
+
+- Ctrl + Alt + ← : 뒤로 가기, 이전 작업 하던 페이지로 이동
